@@ -1,0 +1,304 @@
+\begin{thebibliography}{10}
+\providecommand{\bibauthor}[1]{#1}
+\providecommand{\bibeditor}[1]{#1}
+\providecommand{\bibtranslator}[1]{#1}
+\providecommand{\bibtitle}[1]{#1}
+\providecommand{\bibbooktitle}[1]{#1}
+\providecommand{\bibjournal}[1]{#1}
+\providecommand{\bibmark}[1]{#1}
+\providecommand{\bibcountry}[1]{#1}
+\providecommand{\bibpatentid}[1]{#1}
+\providecommand{\bibedition}[1]{#1}
+\providecommand{\biborganization}[1]{#1}
+\providecommand{\bibaddress}[1]{#1}
+\providecommand{\bibpublisher}[1]{#1}
+\providecommand{\bibinstitution}[1]{#1}
+\providecommand{\bibschool}[1]{#1}
+\providecommand{\bibvolume}[1]{#1}
+\providecommand{\bibnumber}[1]{#1}
+\providecommand{\bibversion}[1]{#1}
+\providecommand{\bibpages}[1]{#1}
+\providecommand{\bibmodifydate}[1]{#1}
+\providecommand{\bibcitedate}[1]{#1}
+\providecommand{\bibyear}[1]{#1}
+\providecommand{\bibdate}[1]{#1}
+\providecommand{\biburl}[1]{\newline\url{#1}}
+
+\bibitem{Report2017:didichuxing}
+\bibauthor{滴滴出行}\@. \bibmark{[R]}\@. \@.
+
+\bibitem{Report2020:CAC}
+\bibauthor{{中国互联网络信息中心}}\@. \bibmark{[R]}\@. \@.
+
+\bibitem{castillo2017surge}
+\bibauthor{CASTILLO J~C\@, KNOEPFLE D\@, WEYL G}\@. \bibtitle{Surge pricing
+  solves the wild goose chase}\bibmark{[C]}
+  //\thinspace{}\bibbooktitle{Proceedings of the 2017 ACM Conference on
+  Economics and Computation}\@. \bibyear{2017}\thinspace{}\textnormal{:
+  }\bibpages{241\thinspace{}\textnormal{--}\thinspace{}242}\@.
+
+\bibitem{chen2016dynamic}
+\bibauthor{CHEN M~K\@, SHELDON M}\@. \bibtitle{Dynamic Pricing in a Labor
+  Market: Surge Pricing and Flexible Work on the Uber Platform.}\bibmark{[C]}
+  //\thinspace{}\bibbooktitle{Ec}\@. \bibyear{2016}\thinspace{}\textnormal{:
+  }\bibpages{455}\@.
+
+\bibitem{article}
+\bibauthor{QIAN X\@, UKKUSURI S}\@. \bibtitle{Time-of-Day Pricing in Taxi
+  Markets}\bibmark{[J/OL]}\@. \bibjournal{IEEE Transactions on Intelligent
+  Transportation Systems}\@, \bibyear{2017}\@, \bibvolume{PP}\@.
+  \url{http://dx.doi.org/10.1109/TITS.2016.2614621}\@.
+
+\bibitem{battifarano2019predicting}
+\bibauthor{BATTIFARANO M\@, QIAN Z~S}\@. \bibtitle{Predicting real-time surge
+  pricing of ride-sourcing companies}\bibmark{[J]}\@.
+  \bibjournal{Transportation Research Part C: Emerging Technologies}\@,
+  \bibyear{2019}\@, \bibvolume{107}\thinspace{}\textnormal{:
+  }\bibpages{444\thinspace{}\textnormal{--}\thinspace{}462}\@.
+
+\bibitem{asghari2018adapt}
+\bibauthor{ASGHARI M\@, SHAHABI C}\@. \bibtitle{ADAPT-pricing: a dynamic and
+  predictive technique for pricing to maximize revenue in ridesharing
+  platforms}\bibmark{[C]} //\thinspace{}\bibbooktitle{Proceedings of the 26th
+  ACM SIGSPATIAL International Conference on Advances in Geographic Information
+  Systems}\@. \bibyear{2018}\thinspace{}\textnormal{:
+  }\bibpages{189\thinspace{}\textnormal{--}\thinspace{}198}\@.
+
+\bibitem{sutton1998introduction}
+\bibauthor{SUTTON R~S\@, BARTO A~G\@, OTHERS}\@. \bibbooktitle{Introduction to
+  reinforcement learning\thinspace{}\textnormal{: }Vol~135}\bibmark{[M]}\@.
+  \bibaddress{[S.l.]}\thinspace{}\textnormal{: }\bibpublisher{MIT press
+  Cambridge}\@, \bibyear{1998}\@.
+
+\bibitem{rana2014real}
+\bibauthor{RANA R\@, OLIVEIRA F~S}\@. \bibtitle{Real-time dynamic pricing in a
+  non-stationary environment using model-free reinforcement
+  learning}\bibmark{[J]}\@. \bibjournal{Omega}\@, \bibyear{2014}\@,
+  \bibvolume{47}\thinspace{}\textnormal{:
+  }\bibpages{116\thinspace{}\textnormal{--}\thinspace{}126}\@.
+
+\bibitem{lu2018dynamic}
+\bibauthor{LU R\@, HONG S~H\@, ZHANG X}\@. \bibtitle{A dynamic pricing demand
+  response algorithm for smart grid: reinforcement learning
+  approach}\bibmark{[J]}\@. \bibjournal{Applied Energy}\@, \bibyear{2018}\@,
+  \bibvolume{220}\thinspace{}\textnormal{:
+  }\bibpages{220\thinspace{}\textnormal{--}\thinspace{}230}\@.
+
+\bibitem{peters2013reinforcement}
+\bibauthor{PETERS M\@, KETTER W\@, SAAR-TSECHANSKY M, et~al}\@. \bibtitle{A
+  reinforcement learning approach to autonomous decision-making in smart
+  electricity markets}\bibmark{[J]}\@. \bibjournal{Machine learning}\@,
+  \bibyear{2013}\@, \bibvolume{92}\bibnumber{(1)}\thinspace{}\textnormal{:
+  }\bibpages{5\thinspace{}\textnormal{--}\thinspace{}39}\@.
+
+\bibitem{shen2020reinforcement}
+\bibauthor{SHEN W\@, PENG B\@, LIU H, et~al}\@. \bibtitle{Reinforcement
+  Mechanism Design: With Applications to Dynamic Pricing in Sponsored Search
+  Auctions}\bibmark{[C]} //\thinspace{}\bibbooktitle{Proceedings of the AAAI
+  Conference on Artificial Intelligence\thinspace{}\textnormal{: }Vol~34}\@.
+  \bibyear{2020}\thinspace{}\textnormal{:
+  }\bibpages{2236\thinspace{}\textnormal{--}\thinspace{}2243}\@.
+
+\bibitem{wang2019reinforcement}
+\bibauthor{WANG S\@, BI S\@, ZHANG Y~J~A}\@. \bibtitle{Reinforcement learning
+  for real-time pricing and scheduling control in ev charging
+  stations}\bibmark{[J]}\@. \bibjournal{IEEE Transactions on Industrial
+  Informatics}\@, \bibyear{2019}\@.
+
+\bibitem{long2018ride}
+\bibauthor{LONG J\@, TAN W\@, SZETO W, et~al}\@. \bibtitle{Ride-sharing with
+  travel time uncertainty}\bibmark{[J]}\@. \bibjournal{Transportation Research
+  Part B: Methodological}\@, \bibyear{2018}\@,
+  \bibvolume{118}\thinspace{}\textnormal{:
+  }\bibpages{143\thinspace{}\textnormal{--}\thinspace{}171}\@.
+
+\bibitem{fang2019prices}
+\bibauthor{FANG Z\@, HUANG L\@, WIERMAN A}\@. \bibtitle{Prices and subsidies in
+  the sharing economy}\bibmark{[J]}\@. \bibjournal{Performance Evaluation}\@,
+  \bibyear{2019}\@, \bibvolume{136}\thinspace{}\textnormal{:
+  }\bibpages{102037}\@.
+
+\bibitem{hu2016joint}
+\bibauthor{HU L\@, LIU Y}\@. \bibtitle{Joint design of parking capacities and
+  fleet size for one-way station-based carsharing systems with road congestion
+  constraints}\bibmark{[J]}\@. \bibjournal{Transportation Research Part B:
+  Methodological}\@, \bibyear{2016}\@, \bibvolume{93}\thinspace{}\textnormal{:
+  }\bibpages{268\thinspace{}\textnormal{--}\thinspace{}299}\@.
+
+\bibitem{banerjee2015pricing}
+\bibauthor{BANERJEE S\@, JOHARI R\@, RIQUELME C}\@. \bibtitle{Pricing in
+  ride-sharing platforms: A queueing-theoretic approach}\bibmark{[C]}
+  //\thinspace{}\bibbooktitle{Proceedings of the Sixteenth ACM Conference on
+  Economics and Computation}\@. \bibyear{2015}\thinspace{}\textnormal{:
+  }\bibpages{639\thinspace{}\textnormal{--}\thinspace{}639}\@.
+
+\bibitem{zha2018surge}
+\bibauthor{ZHA L\@, YIN Y\@, DU Y}\@. \bibtitle{Surge pricing and labor supply
+  in the ride-sourcing market}\bibmark{[J]}\@. \bibjournal{Transportation
+  Research Part B: Methodological}\@, \bibyear{2018}\@,
+  \bibvolume{117}\thinspace{}\textnormal{:
+  }\bibpages{708\thinspace{}\textnormal{--}\thinspace{}722}\@.
+
+\bibitem{rempel2014review}
+\bibauthor{REMPEL J}\@. \bibtitle{A review of uber, the growing alternative to
+  traditional taxi service}\bibmark{[J]}\@. \bibjournal{AFB
+  AccessWorld{\textregistered} Magazine}\@, \bibyear{2014}\@,
+  \bibvolume{51}\bibnumber{(6)}\@.
+
+\bibitem{yan2019dynamic}
+\bibauthor{YAN C\@, ZHU H\@, KOROLKO N, et~al}\@. \bibtitle{Dynamic pricing and
+  matching in ride-hailing platforms}\bibmark{[J]}\@. \bibjournal{Naval
+  Research Logistics (NRL)}\@, \bibyear{2019}\@.
+
+\bibitem{hutianyu2020}
+\bibauthor{胡天宇\@, 张勇}\@.
+  \bibtitle{网约车平台的动态定价策略}\bibmark{[J]}\@. \bibjournal{山东科学}\@,
+  \bibyear{2020}\@, \bibvolume{33}\bibnumber{(2)}\thinspace{}\textnormal{:
+  }\bibpages{79\thinspace{}\textnormal{--}\thinspace{}90}\@.
+
+\bibitem{yao2018deep}
+\bibauthor{YAO H\@, WU F\@, KE J, et~al}\@. \bibtitle{Deep multi-view
+  spatial-temporal network for taxi demand prediction}\bibmark{[C]}
+  //\thinspace{}\bibbooktitle{Proceedings of the AAAI Conference on Artificial
+  Intelligence\thinspace{}\textnormal{: }Vol~32}\@. \bibyear{2018}\@.
+
+\bibitem{zhang2020spatial}
+\bibauthor{ZHANG X\@, HUANG C\@, XU Y, et~al}\@. \bibtitle{Spatial-Temporal
+  Convolutional Graph Attention Networks for Citywide Traffic Flow
+  Forecasting}\bibmark{[C]} //\thinspace{}\bibbooktitle{Proceedings of the 29th
+  ACM International Conference on Information \& Knowledge Management}\@.
+  \bibyear{2020}\thinspace{}\textnormal{:
+  }\bibpages{1853\thinspace{}\textnormal{--}\thinspace{}1862}\@.
+
+\bibitem{guda2019your}
+\bibauthor{GUDA H\@, SUBRAMANIAN U}\@. \bibtitle{Your Uber Is Arriving:
+  Managing On-Demand Workers Through Surge Pricing, Forecast Communication, and
+  Worker Incentives}\bibmark{[J]}\@. \bibjournal{Management Science}\@,
+  \bibyear{2019}\@.
+
+\bibitem{kim2015dynamic}
+\bibauthor{KIM B-G\@, ZHANG Y\@, VAN DER~SCHAAR M, et~al}\@. \bibtitle{Dynamic
+  pricing and energy consumption scheduling with reinforcement
+  learning}\bibmark{[J]}\@. \bibjournal{IEEE Transactions on Smart Grid}\@,
+  \bibyear{2015}\@, \bibvolume{7}\bibnumber{(5)}\thinspace{}\textnormal{:
+  }\bibpages{2187\thinspace{}\textnormal{--}\thinspace{}2198}\@.
+
+\bibitem{maestre2018reinforcement}
+\bibauthor{MAESTRE R\@, DUQUE J\@, RUBIO A, et~al}\@. \bibtitle{Reinforcement
+  learning for fair dynamic pricing}\bibmark{[C]}
+  //\thinspace{}\bibbooktitle{Proceedings of SAI Intelligent Systems
+  Conference}\@. \bibyear{2018}\thinspace{}\textnormal{:
+  }\bibpages{120\thinspace{}\textnormal{--}\thinspace{}135}\@.
+
+\bibitem{turan2019dynamic}
+\bibauthor{TURAN B\@, PEDARSANI R\@, ALIZADEH M}\@. \bibtitle{Dynamic pricing
+  and management for electric autonomous mobility on demand systems using
+  reinforcement learning}\bibmark{[J]}\@. \bibjournal{arXiv preprint
+  arXiv:1909.06962}\@, \bibyear{2019}\@.
+
+\bibitem{jiang2017deep}
+\bibauthor{JIANG Z\@, XU D\@, LIANG J}\@. \bibtitle{A deep reinforcement
+  learning framework for the financial portfolio management
+  problem}\bibmark{[J]}\@. \bibjournal{arXiv preprint arXiv:1706.10059}\@,
+  \bibyear{2017}\@.
+
+\bibitem{wei2018intellilight}
+\bibauthor{WEI H\@, ZHENG G\@, YAO H, et~al}\@. \bibtitle{Intellilight: A
+  reinforcement learning approach for intelligent traffic light
+  control}\bibmark{[C]} //\thinspace{}\bibbooktitle{Proceedings of the 24th ACM
+  SIGKDD International Conference on Knowledge Discovery \& Data Mining}\@.
+  \bibyear{2018}\thinspace{}\textnormal{:
+  }\bibpages{2496\thinspace{}\textnormal{--}\thinspace{}2505}\@.
+
+\bibitem{nguyen2019review}
+\bibauthor{NGUYEN H\@, LA H}\@. \bibtitle{Review of deep reinforcement learning
+  for robot manipulation}\bibmark{[C]} //\thinspace{}\bibbooktitle{2019 Third
+  IEEE International Conference on Robotic Computing (IRC)}\@.
+  \bibyear{2019}\thinspace{}\textnormal{:
+  }\bibpages{590\thinspace{}\textnormal{--}\thinspace{}595}\@.
+
+\bibitem{kaelbling1996reinforcement}
+\bibauthor{KAELBLING L~P\@, LITTMAN M~L\@, MOORE A~W}\@.
+  \bibtitle{Reinforcement learning: A survey}\bibmark{[J]}\@.
+  \bibjournal{Journal of artificial intelligence research}\@, \bibyear{1996}\@,
+  \bibvolume{4}\thinspace{}\textnormal{:
+  }\bibpages{237\thinspace{}\textnormal{--}\thinspace{}285}\@.
+
+\bibitem{auer2002finite}
+\bibauthor{AUER P\@, CESA-BIANCHI N\@, FISCHER P}\@. \bibtitle{Finite-time
+  analysis of the multiarmed bandit problem}\bibmark{[J]}\@.
+  \bibjournal{Machine learning}\@, \bibyear{2002}\@,
+  \bibvolume{47}\bibnumber{(2-3)}\thinspace{}\textnormal{:
+  }\bibpages{235\thinspace{}\textnormal{--}\thinspace{}256}\@.
+
+\bibitem{fortunato2017noisy}
+\bibauthor{FORTUNATO M\@, AZAR M~G\@, PIOT B, et~al}\@. \bibtitle{Noisy
+  networks for exploration}\bibmark{[J]}\@. \bibjournal{arXiv preprint
+  arXiv:1706.10295}\@, \bibyear{2017}\@.
+
+\bibitem{ahmed2019understanding}
+\bibauthor{AHMED Z\@, LE~ROUX N\@, NOROUZI M, et~al}\@. \bibtitle{Understanding
+  the impact of entropy on policy optimization}\bibmark{[C]}
+  //\thinspace{}\bibbooktitle{International Conference on Machine Learning}\@.
+  \bibyear{2019}\thinspace{}\textnormal{:
+  }\bibpages{151\thinspace{}\textnormal{--}\thinspace{}160}\@.
+
+\bibitem{gupta2017cooperative}
+\bibauthor{GUPTA J~K\@, EGOROV M\@, KOCHENDERFER M}\@. \bibtitle{Cooperative
+  multi-agent control using deep reinforcement learning}\bibmark{[C]}
+  //\thinspace{}\bibbooktitle{International Conference on Autonomous Agents and
+  Multiagent Systems}\@. \bibyear{2017}\thinspace{}\textnormal{:
+  }\bibpages{66\thinspace{}\textnormal{--}\thinspace{}83}\@.
+
+\bibitem{lowe2017multi}
+\bibauthor{LOWE R\@, WU Y~I\@, TAMAR A, et~al}\@. \bibtitle{Multi-agent
+  actor-critic for mixed cooperative-competitive environments}\bibmark{[C]}
+  //\thinspace{}\bibbooktitle{Advances in neural information processing
+  systems}\@. \bibyear{2017}\thinspace{}\textnormal{:
+  }\bibpages{6379\thinspace{}\textnormal{--}\thinspace{}6390}\@.
+
+\bibitem{chen2018pricing}
+\bibauthor{CHEN Y\@, HU M}\@. \bibtitle{Pricing and matching with
+  forward-looking buyers and sellers}\bibmark{[J]}\@. \bibjournal{Rotman School
+  of Management Working Paper}\@, \bibyear{2018}\bibnumber{(2859864)}\@.
+
+\bibitem{haarnoja2018soft}
+\bibauthor{HAARNOJA T\@, ZHOU A\@, ABBEEL P, et~al}\@. \bibtitle{Soft
+  actor-critic: Off-policy maximum entropy deep reinforcement learning with a
+  stochastic actor}\bibmark{[J]}\@. \bibjournal{arXiv preprint
+  arXiv:1801.01290}\@, \bibyear{2018}\@.
+
+\bibitem{bimpikis2019spatial}
+\bibauthor{BIMPIKIS K\@, CANDOGAN O\@, SABAN D}\@. \bibtitle{Spatial pricing in
+  ride-sharing networks}\bibmark{[J]}\@. \bibjournal{Operations Research}\@,
+  \bibyear{2019}\@.
+
+\bibitem{SG}
+\bibauthor{L.S.SHAPLEY}\@. \bibtitle{"Stochastic Games"}\bibmark{[J]}\@.
+  \bibjournal{Proceedings of the National Academy of Sciences of the United
+  States of America}\@, \bibyear{1953}\@,
+  \bibvolume{39}\thinspace{}\textnormal{:
+  }\bibpages{1095\thinspace{}\textnormal{--}\thinspace{}1100}\@.
+
+\bibitem{tampuu2017multiagent}
+\bibauthor{TAMPUU A\@, MATIISEN T\@, KODELJA D, et~al}\@. \bibtitle{Multiagent
+  cooperation and competition with deep reinforcement learning}\bibmark{[J]}\@.
+  \bibjournal{PloS one}\@, \bibyear{2017}\@,
+  \bibvolume{12}\bibnumber{(4)}\thinspace{}\textnormal{:
+  }\bibpages{e0172395}\@.
+
+\bibitem{tan1993multi}
+\bibauthor{TAN M}\@. \bibtitle{Multi-agent reinforcement learning: Independent
+  vs. cooperative agents}\bibmark{[C]} //\thinspace{}\bibbooktitle{Proceedings
+  of the tenth international conference on machine learning}\@.
+  \bibyear{1993}\thinspace{}\textnormal{:
+  }\bibpages{330\thinspace{}\textnormal{--}\thinspace{}337}\@.
+
+\bibitem{mnih2015human}
+\bibauthor{MNIH V\@, KAVUKCUOGLU K\@, SILVER D, et~al}\@. \bibtitle{Human-level
+  control through deep reinforcement learning}\bibmark{[J]}\@.
+  \bibjournal{nature}\@, \bibyear{2015}\@,
+  \bibvolume{518}\bibnumber{(7540)}\thinspace{}\textnormal{:
+  }\bibpages{529\thinspace{}\textnormal{--}\thinspace{}533}\@.
+
+\end{thebibliography}

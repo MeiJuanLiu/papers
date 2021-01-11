@@ -1,0 +1,37 @@
+
+\begin{abstract}
+网约车动态定价技术在缓解流量负载、控制交通拥塞、平衡供需、提高平台收入方面有重要作用。有效的动态定价策略不仅能够提高订单响应率，从而提高车辆利用率和打车服务提供者（平台方和司机）的收入，而且能增强乘客和司机的满意度。网约车供需不平衡问题在时间和空间上都普遍存在，时间上的供需不平衡体现在，需求随着时间变化，当前可能处于打车平峰期，下一时段可能就进入了打车高峰期，或者由打车高峰期过渡到平峰期；空间上的供需不平衡体现在，人流量大的地区的车辆供应比人流量少的地区的车辆供应更紧张。网约车动态定价基于需求的变化而相应地改变订单价格去达到平衡供需和提高平台订单响应率和收入的目的。由于当前的价格决策不仅会影响当前的收入也会对未来的收入造成影响，因此价格的决策应该致力于去优化累积的订单响应率和平台收入。然而，现存的大多数网约车动态定价算法旨在优化当前收入，或者前后两个时段的短期总收入，面临着优化长期收入时的灵活性和扩展性差以及复杂度高的问题。\par
+强化学习从代理与环境的交互经验中学习优化长期收入，因此本文提出使用基于目标导向的强化学习技术解决网约车动态定价中面临的问题。本文首先将动态定价问题形式化为马尔科夫决策过程。考虑到空间上供需不平衡问题的存在，订单的价格由出发地和目的地不同而不同，同时价格设为作为连续值，避免动作空间离散化。其次，虽然动态定价旨在提高平台的收入，但是仅将收入作为奖励函数并不适合网约车平台的动态定价问题，因此本文针对设计了更适合的奖励函数。奖励函数通过计算即时收入、订单响应率和下一时段的供需分布的KL散度三者的和得到，相比于用即时收入作为奖励函数，其收敛更快更好。由于动作空间是连续值，在学习过程中需要充分探索，因此本文使用探索能力较为优秀且适合于优化连续动作空间问题的SAC算法优化本文中的动态定价模型。\par
+使用基于单代理的强化学习来解决网约车动态定价问题会面临动作空间随着划分的区域数增加而增长的问题，导致模型难以收敛，因此为了降低动作空间的维度，本文同时提出基于多代理的强化学习方法去解决网约车动态定价问题，每个区域使用一个代理去决策其前往其它各区域的订单价格，多个代理共同优化平台的累积订单响应率和累积收入。多代理相比于单代理的方法面临的主要挑战是代理协同，该方法通过参数共享实现代理间的协同，参数共享使得每个代理的策略可以使用所有代理的经验训练，训练更有效。\par
+本文使用真实数据集验证了本文方法的有效性，实验表明，基于强化学习的方法能大大提高订单响应率和平台收入，并且本文所设计的奖励函数能让模型收敛得更快更好；实验表明基于多代理的方法相比代理的方法效果要差，但是基于多代理的方法很好地实现了代理间的协同，相比单代理的方法其适用范围更广。\par
+\keywords{动态定价,\quad{}供需平衡,\quad{}强化学习,\quad{}SAC,\quad{}多代理} \par
+\end{abstract}
+
+\begin{englishabstract}
+The Abstract is a brief description of a thesis or dissertation without notes or comments. It represents concisely the research purpose, content, method, result and conclusion of the thesis or dissertation with emphasis on its innovative findings and perspectives. The Abstract Part consists of both the Chinese abstract and the English abstract. The Chinese abstract should have the length of approximately 1000 Chinese characters for a master thesis and 1500 for a Ph.D. dissertation. The English abstract should be consistent with the Chinese one in content. The keywords of a thesis or dissertation should be listed below the main body of the abstract, separated by commas and a space. The number of the keywords is typically 3 to 5.
+\par~\par
+The format of the Chinese Abstract is what follows: Song Ti, Small 4, justified, 2 characters indented in the first line, line spacing at a fixed value of 20 pounds, and paragraph spacing section at 0 pound.
+\par~\par
+The format of the English Abstract is what follows: Times New Roman, Small 4, justified, not indented in the first line, line spacing at a fixed value of 20 pounds, and paragraph spacing section at 0 pound with a blank line between paragraphs.
+~\par
+\englishkeywords{XXX,\space{}XXX,\space{}XXX,\space{}XXX,\space{}XXX} \par
+
+\end{englishabstract}
+
+\XDUpremainmatter
+
+\begin{symbollist}
+\item ~符号 \hspace{12em} 符号名称
+\item XXX \hspace{12.5em} XXX
+\item XXX \hspace{12.5em} XXX
+\item XXX \hspace{12.5em} XXX
+\item \ldots
+\end{symbollist}
+
+\begin{abbreviationlist}
+\item 缩略语\hspace{6em}英文全称\hspace{6em}中文对照
+\item ~XXX \hspace{7em} XXX \hspace{7.5em} XXX
+\item ~XXX \hspace{7em} XXX \hspace{7.5em} XXX
+\item ~XXX \hspace{7em} XXX \hspace{7.5em} XXX
+\item \ldots
+\end{abbreviationlist}

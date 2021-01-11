@@ -1,0 +1,37 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: templet.aux
+The style file: gbt7714-2005.bst
+A level-1 auxiliary file: chapters/abstract.aux
+A level-1 auxiliary file: chapters/introduction.aux
+A level-1 auxiliary file: chapters/section2.aux
+A level-1 auxiliary file: chapters/edit.aux
+A level-1 auxiliary file: chapters/guide.aux
+A level-1 auxiliary file: chapters/thanks.aux
+A level-1 auxiliary file: chapters/resume.aux
+Database file #1: bib/tex.bib
+I was expecting a `,' or a `}'---line 2 of file bib/tex.bib
+ :  author = {滴滴出行}
+ :                     ，
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 11 of file bib/tex.bib
+ :  author = {{中国互联网络信息中心}}
+ :                                   ，
+I'm skipping whatever remains of this entry
+Repeated entry---line 46 of file bib/tex.bib
+ : @inproceedings{castillo2017surge
+ :                                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 213 of file bib/tex.bib
+ : @inproceedings{banerjee2015pricing
+ :                                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 265 of file bib/tex.bib
+ : @article{lu2018dynamic
+ :                       ,
+I'm skipping whatever remains of this entry
+Warning--Require title: Report2017:didichuxing
+Warning--Require year: Report2017:didichuxing
+Warning--Require title: Report2020:CAC
+Warning--Require year: Report2020:CAC
+Warning--Require citedate: article
+Warning--Require address: sutton1998introduction
+(There were 5 error messages)
